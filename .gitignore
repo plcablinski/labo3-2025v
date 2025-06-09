@@ -192,3 +192,4 @@ lgbm_model.txt
 data/l_vm_completa_train.parquet
 lgbm_clasif_model.txt
 lgbm_model.txt
+lgbm_model_clasif.txt
