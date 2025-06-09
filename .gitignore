@@ -2,6 +2,8 @@
 *.csv
 *.csv.gz
 data/l_vm_completa_train.parquet
+*.parquet
+
 lgbm_clasif_model.txt
 data/
 
