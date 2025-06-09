@@ -186,3 +186,6 @@ project/target
 .worksheet
 
 .vscode/settings.json
+data/l_vm_completa_train.parquet
+lgbm_clasif_model.txt
+lgbm_model.txt
