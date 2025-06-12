@@ -195,3 +195,4 @@ lgbm_model.txt
 lgbm_model_clasif.txt
 lgbm_model_reg.txt
 modelos/optuna.db
+modelos/lgbm_model_reg_sin_val.txt
