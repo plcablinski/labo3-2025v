@@ -2,6 +2,7 @@
 *.csv
 *.csv.gz
 *.pkl
+*.pth
 data/l_vm_completa_train.parquet
 *.parquet
 
