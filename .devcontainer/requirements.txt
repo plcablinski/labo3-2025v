@@ -11,3 +11,4 @@ pyarrow
 scipy
 scikit-image
 tqdm
+torchinfo
