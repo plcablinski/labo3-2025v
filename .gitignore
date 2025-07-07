@@ -324,3 +324,9 @@ AutogluonModels/ag-20250626_232829/utils/attr/LightGBM_BAG_L1/y_pred_proba_val.p
 AutogluonModels/ag-20250626_232829/utils/attr/LightGBMXT_BAG_L1/y_pred_proba_val.pkl
 AutogluonModels/ag-20250626_232829/utils/attr/LightGBMXT_BAG_L2/y_pred_proba_val.pkl
 AutogluonModels/ag-20250626_235457/metadata.json
+best_model.pth
+modelo_m1.pth
+.gitignore
+modelo_m2.pth
+modelo_m3.pth
+devcontainer_pytorch_cuda122.zip

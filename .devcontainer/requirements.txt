@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+polars
+scikit-learn
+joblib
+more-itertools
+torch
+fastparquet
+pyarrow
+scipy
+scikit-image
+tqdm
