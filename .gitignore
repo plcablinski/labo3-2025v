@@ -3,6 +3,11 @@
 *.csv.gz
 *.pkl
 *.pth
+*.pt
+*.pkl
+*.txt
+*.json
+*.joblib
 data/l_vm_completa_train.parquet
 *.parquet
 

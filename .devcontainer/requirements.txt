@@ -12,3 +12,9 @@ scipy
 scikit-image
 tqdm
 torchinfo
+optuna
+lightgbm
+xgboost
+catboost
+seaborn
+statsmodels
