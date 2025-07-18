@@ -18,3 +18,5 @@ xgboost
 catboost
 seaborn
 statsmodels
+calendar
+holidays
