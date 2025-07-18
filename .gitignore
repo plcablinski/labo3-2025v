@@ -336,4 +336,4 @@ modelo_m1.pth
 modelo_m2.pth
 modelo_m3.pth
 devcontainer_pytorch_cuda122.zip
-optuna_lgbm_study.db
+
